@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Kashido - Prelude Op 28 No 4.mp3</file>
+        <file>tower.png</file>
+        <file>download.jpeg</file>
+        <file>kisspng-pac-man-computer-icons-enemy-ghost-icon-5ab0cbae0e9506.6300061515215359180597.png</file>
+    </qresource>
+</RCC>
