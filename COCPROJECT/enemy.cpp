@@ -4,7 +4,7 @@
 #include <QTimer>
 
 Enemy::Enemy(int x, int y, int hp) : Unit(x, y,hp) {
-    setSprite(":/new/prefix1/kisspng-pac-man-computer-icons-enemy-ghost-icon-5ab0cbae0e9506.6300061515215359180597.png");
+    setSprite(":/new/prefix1/resources/enemy.png");
     setDimensions(100,100);
 }
 

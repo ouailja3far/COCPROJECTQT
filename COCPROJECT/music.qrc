@@ -4,5 +4,8 @@
         <file>tower.png</file>
         <file>download.jpeg</file>
         <file>kisspng-pac-man-computer-icons-enemy-ghost-icon-5ab0cbae0e9506.6300061515215359180597.png</file>
+        <file>resources/clancastle.png</file>
+        <file>resources/enemy.png</file>
+        <file>resources/fence.png</file>
     </qresource>
 </RCC>

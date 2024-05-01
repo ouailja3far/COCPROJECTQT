@@ -10,25 +10,31 @@ CONFIG += c++17
 
 SOURCES += \
     bullet.cpp \
+    castle.cpp \
     element.cpp \
     enemy.cpp \
+    fence.cpp \
     game.cpp \
     main.cpp \
     mainwindow.cpp \
     player.cpp \
     settings.cpp \
+    structure.cpp \
     tower.cpp \
     unit.cpp \
     worker.cpp
 
 HEADERS += \
     bullet.h \
+    castle.h \
     element.h \
     enemy.h \
+    fence.h \
     game.h \
     mainwindow.h \
     player.h \
     settings.h \
+    structure.h \
     tower.h \
     unit.h \
     worker.h
