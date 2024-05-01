@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>wizard-4417511_1280.png</file>
+        <file>kisspng-pac-man-computer-icons-enemy-ghost-icon-5ab0cbae0e9506.6300061515215359180597.png</file>
+        <file>pngwing.com.png</file>
+        <file>tower.png</file>
+        <file>worker.png</file>
+    </qresource>
+    <qresource prefix="/canons">
+        <file>Canons/Giant_Cannon1.png</file>
+        <file>Canons/Giant_Cannon2.png</file>
+        <file>Canons/Giant_Cannon3.png</file>
+        <file>Canons/Giant_Cannon4.png</file>
+        <file>Canons/Giant_Cannon5.png</file>
+        <file>Canons/Giant_Cannon6.png</file>
+        <file>Canons/Giant_Cannon7.png</file>
+        <file>Canons/Giant_Cannon8.png</file>
+        <file>Canons/Giant_Cannon9.png</file>
+    </qresource>
+    <qresource prefix="/Archer">
+        <file>Archer Tower/Archer_Tower1.png</file>
+        <file>Archer Tower/Archer_Tower2.png</file>
+        <file>Archer Tower/Archer_Tower3.png</file>
+        <file>Archer Tower/Archer_Tower4.png</file>
+        <file>Archer Tower/Archer_Tower5.png</file>
+        <file>Archer Tower/Archer_Tower6.png</file>
+        <file>Archer Tower/Archer_Tower7.png</file>
+        <file>Archer Tower/Archer_Tower8.png</file>
+        <file>Archer Tower/Archer_Tower9.png</file>
+    </qresource>
+    <qresource prefix="/Wizard">
+        <file>Wizard/Wizard_Tower1.png</file>
+        <file>Wizard/Wizard_Tower2.png</file>
+        <file>Wizard/Wizard_Tower3.png</file>
+        <file>Wizard/Wizard_Tower4.png</file>
+        <file>Wizard/Wizard_Tower5.png</file>
+        <file>Wizard/Wizard_Tower6.png</file>
+        <file>Wizard/Wizard_Tower7.png</file>
+        <file>Wizard/Wizard_Tower8.png</file>
+        <file>Wizard/Wizard_Tower9.png</file>
+    </qresource>
+</RCC>
